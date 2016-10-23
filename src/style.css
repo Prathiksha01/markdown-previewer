@@ -1,0 +1,39 @@
+body{
+  background-color:black;
+  padding:0;
+  margin:0;
+  width:100%;
+  height:100%;
+}
+
+.left{
+  width:29.62vw;
+  height:37.07vw;
+  background-color:black;
+  color:SeaShell;
+  padding: 1.48vw;
+  margin:2.96vw 1.85vw auto 3.7vw;
+  font-size:1.85vw;
+  font-family:sans-serif;
+  border:0.148vw solid SeaShell;
+  border-radius:5px;
+  float:left;
+  overflow-y:scroll;
+  overflow-x:hidden;
+}
+
+.right{
+  width:29.62vw;
+  height:37vw;
+  background-color:SeaShell;
+  color:black;
+  padding: 1.48vw;
+  margin: 2.96vw 3.7vw auto 1.85vw;
+  font-size:1.85vw;
+  font-family:sans-serif;
+  border:none;
+  border-radius:5px;
+  float:right;
+  overflow-y:scroll;
+  over-flow-x:hidden;
+}
